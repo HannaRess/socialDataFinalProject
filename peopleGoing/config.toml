@@ -1,6 +1,6 @@
 baseURL = 'https://hannaress.github.io/socialDataFinalProject/'
 languageCode = 'en-us'
-title = 'What Gets The People Going?'
+title = 'People In Melboure'
 theme = "ananke"
 publishDir = "../docs"
 [markup.goldmark.renderer]
