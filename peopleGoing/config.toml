@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://hannaress.github.io/socialDataFinalProject/'
 languageCode = 'en-us'
 title = 'What Gets The People Going?'
 theme = "ananke"
