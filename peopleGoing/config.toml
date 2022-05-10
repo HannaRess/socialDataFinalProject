@@ -2,4 +2,4 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'What Gets The People Going?'
 theme = "ananke"
-publishDir = "docs"
+publishDir = "../docs"
