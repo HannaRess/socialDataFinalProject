@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = 'What Gets The People Going?'
 theme = "ananke"
 publishDir = "../docs"
+[markup.goldmark.renderer]
+unsafe = true
