@@ -33,7 +33,7 @@ To lay the foundation for this analysis, the primary dataset is comprised of ove
 
 The number of recorded pedestrians recorded over the past years follows a steady upwards pattern, with a single sharp drop in 2020 during the COVID-19 lockdowns. Despite the sharp toll taken by the lockdown, the trend maintains its upwards trajectory and one could reasonably presume that the walking activity will return to regular numbers as concerns and restrictions over the virus dissipate.
 
-![Amount of pedestrians on street per year]({{< baseurl >}}/ped_streed_total.png)
+![Amount of pedestrians on street per year]({{< baseurl >}}/ped_street_total.png)
 
 The upward trend does not seem to be the result of any actual increase in pedestrian activity; rather it is probably the result of more sensors and increased data recording.
 
